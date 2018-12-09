@@ -5,6 +5,23 @@
 
 </div>
 
+Will India vote for a criminal or a crorepati again in 2019? Let’s look at 2009-14 to find out.
+
+## Analysis of Re-nomination and Re-election
+
+How does criminality impact one’s election prospects? Of the 542 Lok Sabha winners in 2009, 285 got re-nominated by their parties to contest the 2014 elections. This gives us a 52% re-nomination rate. Of these 285, 143 won the election again in 2014, while the remaining 142 did not. This shows a roughly 50% success rate - the percentage of renominations who successfully secured reelection.
+
+Now, we compare candidates with no criminal cases with those who have at least one. Of the 455 non-criminals elected to the Lok Sabha in 2009, 235 were re-nominated by their parties to contest in 2014. 115 of these people went on to win a seat in 2014 as well, representing a 51% re-nomination rate and 49% success rate.
+
+Contrast this with the prospects of candidates facing criminal charges. 87 such candidates got elected in 2009, of which 50 got re-nominated, yielding a re-nomination rate of 58%. Further, 28 went on to win in the 2014 elections, at a 56% success rate.
+
+There graph below summarises these numbers:
+
+![alt text](https://github.com/mayukhnair/india-election-crime/blob/master/Picture1.png?raw=true "Logo Title Text 1")
+
+![alt text](https://github.com/mayukhnair/india-election-crime/blob/master/Picture2.png?raw=true "Logo Title Text 1")
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mayukhnair/india-election-crime/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
