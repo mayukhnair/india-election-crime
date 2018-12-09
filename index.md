@@ -14,13 +14,15 @@ Most Lok Sabha candidates are not serious contenders, hence we only consider can
 
 Candidates from Uttar Pradesh eclipse all other states in terms of criminality, with 50 candidates
 facing a criminal charges. This is followed by Maharashtra, Bihar and Gujarat (17, 16 and 11 respectively). 
-<br>
+
+
 Party-wise, the BJP fielded 35 criminal candidates, followed by INC at 26 and BSP with 22.
 
 ## Education, 2009
 
 423 of the 1162 candidates reported themselves as having a postgraduate degree. The Congress has the highest number of postgraduates with 142 candidates, with the BJP at a distant 84, followed by the CPM (31) and BSP (30). By state, Uttar Pradesh leads with 72 post-graduates, ahead of Andhra Pradesh (44) and West Bengal (35).
-<br>
+
+
 Our criminals are not entirely uneducated. Of candidates with criminal allegations, 41 possess a postgraduate degree. Uttar Pradesh leads the list with 16 postgraduate criminal candidates, followed by Bihar (5). The southern states of Kerala, Tamil Nadu and Andhra Pradesh, along with Haryana have 3 candidates each.
 
 ## Wealth and Assets, 2009
