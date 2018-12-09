@@ -54,7 +54,9 @@ A comparison of candidates with criminal charges against those with none reveals
 
 Contrast this with the prospects of candidates facing criminal charges. 87 such candidates got elected in 2009, of which 50 got re-nominated, yielding a re-nomination rate of 58%. Further, 28 went on to win in the 2014 elections, at a 56% success rate. 
 
-![alt text](https://raw.githubusercontent.com/mayukhnair/india-election-crime/master/Picture1.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayukhnair/india-election-crime/master/Picture1.png"/>
+</p>
 
 While the impact of criminality is not very significant, data shows that more incumbent criminals retain their seat than their non-criminal peers. 
 
@@ -70,7 +72,9 @@ Of the 28 candidates with criminal charges reelected in 2014, an overwhelming ma
 
 The reason for the BJP getting the maximum number of candidates with criminal cases re-elected can also be attributed to the ‘Modi Wave’ of 2014. It is likely that the strong anti-incumbency sentiment against the Congress, as well as the popularity of Narendra Modi in 2014 may have compensated for the tainted personal records of BJP’s candidates.
 
-![alt text](https://raw.githubusercontent.com/mayukhnair/india-election-crime/master/Picture2.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayukhnair/india-election-crime/master/Picture2.png"/>
+</p>
 
 The Modi Wave phenomenon is corroborated by the BJP relative numbers compared to their competitors. BJP renominated 20 criminal candidates in 2014, compared to the Congress’ 9 and AITC’s 3. The Congress’ success rate was 33% for their criminal candidates (3 out of 9 reelections), while the BJP’s number is 80% (16/20). 
 
