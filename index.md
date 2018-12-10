@@ -11,22 +11,41 @@ Will India vote for a criminal or a crorepati again in 2019? A data-driven, visu
 </div>
 
 <div align="center">
-  <small> Hover your mouse over any state to see the number of candidates with criminal charges nominated by state. Data: Trivedi Centre for Political Data, Ashoka University</small>
+  <small> Hover your mouse over any state to see the number of candidates with criminal charges nominated by state.<br>Data: Trivedi Centre for Political Data, Ashoka University</small>
 </div>
 
 ## Candidate insights: 2009 Lok Sabha Elections 
 
 Most Lok Sabha candidates are not serious contenders, hence only candidates having a vote share exceeding 20% were considered. 149 out of the now defined total of 1162 candidates have been booked for a serious criminal charge.
 
-
 ### Criminals Running for Office
 
-Candidates from Uttar Pradesh eclipse all other states in terms of criminality, with 50 candidates facing a criminal charges. This is followed by Maharashtra, Bihar and Gujarat (17, 16 and 11 respectively). 
+<div>
+  
+  <div class='tableauPlaceholder' id='viz1544425281467' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CriminalCasesbyParty2009Elections&#47;Sheet5&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CriminalCasesbyParty2009Elections&#47;Sheet5' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CriminalCasesbyParty2009Elections&#47;Sheet5&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1544425281467');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+  
+</div>
 
+<div align="center">
+  <small> Criminal candidates presented by party affiliation. Data:<br>Trivedi Centre for Political Data, Ashoka University</small>
+</div>
+
+Candidates from Uttar Pradesh eclipse all other states in terms of criminality, with 50 candidates facing a criminal charges. This is followed by Maharashtra, Bihar and Gujarat (17, 16 and 11 respectively). 
 
 Party-wise, the BJP fielded 35 criminal candidates, followed by INC at 26 and BSP with 22.
 
 ### Education
+
+<div>
+
+<div class='tableauPlaceholder' id='viz1544425412279' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;PostGraduatesbyParty2009Elections&#47;Sheet6&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='PostGraduatesbyParty2009Elections&#47;Sheet6' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;PostGraduatesbyParty2009Elections&#47;Sheet6&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1544425412279');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+</div>
+
+<div align="center">
+  <small> Post-graduate candidates by party. Data:<br>Trivedi Centre for Political Data, Ashoka University</small>
+</div>
+
 
 423 of the 1162 candidates reported themselves as having a postgraduate degree. The Congress has the highest number of postgraduates with 142 candidates, with the BJP at a distant 84, followed by the CPM (31) and BSP (30). By state, Uttar Pradesh leads with 72 post-graduates, ahead of Andhra Pradesh (44) and West Bengal (35).
 
@@ -44,7 +63,7 @@ The data on wealth is tricky, because asset declarations may be underreported. A
 </div>
 
 <div align="center">
-  <small> Use the drop-down filter on the map above to see the average movable asset worth per candidate, criminals re-elected and concentration of postgraduate candidates - all of them measured by state. Data: Trivedi Centre for Political Data, Ashoka University</small>
+  <small> Use the drop-down filter on the map above to see the average movable asset worth per candidate, criminals re-elected and concentration of postgraduate candidates - all of them measured by state. Data:<br>Trivedi Centre for Political Data, Ashoka University</small>
 </div>
 
 On an average, candidates from regional parties match candidates from national parties with their declared movable assets (money, jewellery, vehicles). Candidates from Karnataka’s Janata Dal (Secular) have average movable assets at Rs. 4.79 crore, followed by Nationalist Congress Party with Rs. 4.3 crore, and Congress with Rs 3.4 crore. 
@@ -68,6 +87,10 @@ Contrast this with the prospects of candidates facing criminal charges. 87 such 
   <img src="https://raw.githubusercontent.com/mayukhnair/india-election-crime/master/Picture1.png"/>
 </p>
 
+<div align="center">
+  <small>Percentage of all candidates re-nominated and successfully re-elected thereafter. Data:<br>Trivedi Centre for Political Data, Ashoka University</small>
+</div>
+
 While the impact of criminality is not very significant, data shows that more incumbent criminals retain their seat than their non-criminal peers. 
 
 
@@ -82,6 +105,10 @@ The reason for the BJP getting the maximum number of candidates with criminal ca
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayukhnair/india-election-crime/master/Picture2.png"/>
 </p>
+
+<div align="center">
+  <small>Renominated and re-elected criminal candidates by party. Data:<br>Trivedi Centre for Political Data, Ashoka University</small>
+</div>
 
 The Modi Wave phenomenon is corroborated by the BJP relative numbers compared to their competitors. BJP renominated 20 criminal candidates in 2014, compared to the Congress’ 9 and AITC’s 3. The Congress’ success rate was 33% for their criminal candidates (3 out of 9 reelections), while the BJP’s number is 80% (16/20). 
 
@@ -102,6 +129,3 @@ In India, the trend for criminal candidates’ prospects is anything but bleak. 
 This is combined with the government's wilful apathy to protect dubious funding channels for their parties. The Lok Sabha recently passed a bill that exempts parties from scrutiny of funds received from abroad, that too sans debate. And new rules shown by the government to "clean up" funding only makes it murkier: the Union Budget of 2017-18 introduced electoral bonds to crack down on cash donations, but allowed anonymity of donors.
 
 The Supreme Court struck down petitions to bar criminal candidates from contesting elections, but underlined that it is time Parliament enacts laws to prevent this. But as the information goes to show, India is doing anything but cleaning up.
-
-Dataset: Insert link
-
