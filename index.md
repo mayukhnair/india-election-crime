@@ -8,26 +8,28 @@ Looking back at the previous election cycle (2009-14), candidates with serious c
 
 </div>
 
-Most Lok Sabha candidates are not serious contenders, hence we only consider candidates with more than 20% vote share. This shrinks our 2009 candidate dataset to 1162 candidates and 37 political parties. Criminal candidates are candidates facing serious criminal charges. 
+## Candidate insights: 2009 Lok Sabha Elections 
 
-## Criminals Running for Office, 2009
+Most Lok Sabha candidates are not serious contenders, hence only candidates having a vote share exceeding 20% were considered. 149 out of the now defined total of 1162 candidates have been booked for a serious criminal charge.
 
-Candidates from Uttar Pradesh eclipse all other states in terms of criminality, with 50 candidates
-facing a criminal charges. This is followed by Maharashtra, Bihar and Gujarat (17, 16 and 11 respectively). 
+
+### Criminals Running for Office
+
+Candidates from Uttar Pradesh eclipse all other states in terms of criminality, with 50 candidates facing a criminal charges. This is followed by Maharashtra, Bihar and Gujarat (17, 16 and 11 respectively). 
 
 
 Party-wise, the BJP fielded 35 criminal candidates, followed by INC at 26 and BSP with 22.
 
-## Education, 2009
+### Education
 
 423 of the 1162 candidates reported themselves as having a postgraduate degree. The Congress has the highest number of postgraduates with 142 candidates, with the BJP at a distant 84, followed by the CPM (31) and BSP (30). By state, Uttar Pradesh leads with 72 post-graduates, ahead of Andhra Pradesh (44) and West Bengal (35).
 
 
-Our criminals are not entirely uneducated. Of candidates with criminal allegations, 41 possess a postgraduate degree. Uttar Pradesh leads the list with 16 postgraduate criminal candidates, followed by Bihar (5). The southern states of Kerala, Tamil Nadu and Andhra Pradesh, along with Haryana have 3 candidates each.
+Of candidates with criminal allegations, 41 possess a postgraduate degree. Uttar Pradesh leads the list with 16 postgraduate criminal candidates, followed by Bihar (5). The southern states of Kerala, Tamil Nadu and Andhra Pradesh, along with Haryana have 3 candidates each.
 
-## Wealth and Assets, 2009
+### Wealth and Assets
 
-The data on wealth is tricky, because asset declarations may be underreported. Alternatively, assets might be in the name of the candidate’s family members and not register in the affidavits at all. *party assets*
+The data on wealth is tricky, because asset declarations may be underreported. Alternatively, assets might be in the name of the candidate’s family members and not register in the affidavits at all.
 
 
 <div>
@@ -46,7 +48,7 @@ The BJP ranks below 13 parties with an average value of Rs 1.44 crore. By state,
 ## The 2014 Comparative: Renomination and Reelection
 
 
-Of the 542 Lok Sabha winners in 2009, 285 got re-nominated by their parties to contest the 2014 elections. This gives us a 52% re-nomination rate. Of these 285, 143 won the election again in 2014, This is roughly a 50% success rate - the percentage of renominations who successfully secured reelection. 
+Of the 542 Lok Sabha winners in 2009, 285, or 52% of the previous winners, were re-nominated by their parties to contest the 2014 elections. Of these 285, 143 won the election again in 2014, This is roughly a 50% success rate - the percentage of renominees who successfully secured reelection. 
 
 
 A comparison of candidates with criminal charges against those with none reveals much more. Of the 455 non-criminals elected to the Lok Sabha in 2009, 235 were re-nominated by their parties to contest in 2014. 115 of these people went on to win a seat in 2014 as well, representing a 51% re-nomination rate and 49% success rate. 
@@ -64,13 +66,13 @@ While the impact of criminality is not very significant, data shows that more in
 These candidates are preferred more by the parties than the electorate. Political scientist Milan Vaishnav notes in an interview with BBC that criminal and wealthy candidates self-finance their campaigns, which is beneficial for parties as the party coffers are not depleted. These candidates may even contribute to the party fund to sponsor other candidates’ campaigns. 
 
 
-## Party and State wise Renomination, Reelection
+### Party and State wise Renomination, Reelection
 
 
 Of the 28 candidates with criminal charges reelected in 2014, an overwhelming majority of them are from the BJP (16 candidates). Trinamool Congress (AITC) and INC’s count is 3 and 2  respectively, with a bunch of regional parties like SP, JD(U), ADMK, AIMIM, CPM having 1 candidate each. 
 
 
-The reason for the BJP getting the maximum number of candidates with criminal cases re-elected can also be attributed to the ‘Modi Wave’ of 2014. It is likely that the strong anti-incumbency sentiment against the Congress, as well as the popularity of Narendra Modi in 2014 may have compensated for the tainted personal records of BJP’s candidates.
+The reason for the BJP getting the maximum number of candidates with criminal cases re-elected can also be attributed to the ‘Modi Wave’ phenomenon of 2014 that aided now Prime Minister Narendra Modi's campaign. It is likely that the strong anti-incumbency sentiment against the Congress, combined with Modi's popularity in 2014 may have compensated for the tainted personal records of BJP’s candidates.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayukhnair/india-election-crime/master/Picture2.png"/>
@@ -82,7 +84,7 @@ The Modi Wave phenomenon is corroborated by the BJP relative numbers compared to
 It is interesting to note that AITC’s is 100% (3/3), and their stronghold is West Bengal, where BJP’s presence is minimal, possibly insulating them from the Modi Wave.
 
 
-5 states constitute the bulk of where candidates with criminal charges manage to get reelected in 2014. Bihar (3), Gujarat, Maharashtra, West Bengal and Uttar Pradesh (4 each) have the highest concentration of such candidates, with a few other states having 1 candidate. This is not surprising since the maximum number of criminals candidates contest elections from these states anyways. 
+5 states constitute the bulk of where candidates with criminal charges manage to get reelected in 2014. Bihar (3), Gujarat, Maharashtra, West Bengal and Uttar Pradesh (4 each) have the highest concentration of such candidates, with a few other states having 1 candidate. This is not surprising since the maximum number of criminals candidates contest elections from these states. 
 
 
 Dataset: Insert link
