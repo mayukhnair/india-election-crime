@@ -95,11 +95,7 @@ While the impact of criminality is not very significant, data shows that more in
 
 ### Party and State wise Renomination, Reelection
 
-
-Of the 28 candidates with criminal charges reelected in 2014, an overwhelming majority of them are from the BJP (16 candidates). Trinamool Congress (AITC) and INC’s count is 3 and 2  respectively, with a bunch of regional parties like SP, JD(U), ADMK, AIMIM, CPM having 1 candidate each. 
-
-
-The reason for the BJP getting the maximum number of re-elected criminal candidates can also be attributed to the ‘Modi Wave’ phenomenon of 2014 that aided now Prime Minister Narendra Modi's campaign. It is likely that the strong anti-incumbency sentiment against the Congress combined with Modi's popularity may have compensated for the tainted personal records of BJP’s candidates.
+BJP managed to get the maximum number of criminal MPs reelected. It can be attributed to the ‘Modi Wave’ phenomenon of 2014 that aided Narendra Modi's campaign. It is likely that the strong anti-incumbency sentiment against the Congress combined with Modi's popularity may have compensated for the tainted personal records of BJP’s candidates.
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayukhnair/india-election-crime/master/Picture2.png"/>
@@ -112,7 +108,7 @@ The reason for the BJP getting the maximum number of re-elected criminal candida
 The Modi Wave phenomenon is corroborated by the BJP relative numbers compared to their competitors. BJP renominated 20 criminal candidates in 2014, compared to the Congress’ 9 and AITC’s 3. The Congress’ success rate was 33% for their criminal candidates (3 out of 9 reelections), while the BJP’s number is 80% (16/20). 
 
 
-It is interesting to note that AITC’s is 100% (3/3), and their stronghold is West Bengal, where BJP’s presence is minimal, possibly insulating them from the Modi Wave.
+It is interesting to note that AITC’s is 100% (3/3), and their stronghold is West Bengal, where BJP’s presence is minimal. This could have possibly insulated them from the Modi Wave. BJP managed to get most criminal candidates reelected from UP and Gujarat, where Modi was highly popular.
 
 
 5 states constitute the bulk of where candidates with criminal charges manage to get reelected in 2014. Bihar (3), Gujarat, Maharashtra, West Bengal and Uttar Pradesh (4 each) have the highest concentration of such candidates, with a few other states having 1 candidate. This is not surprising since the maximum number of criminals candidates contest elections from these states. 
