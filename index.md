@@ -77,10 +77,7 @@ The BJP ranks below 13 parties with an average value of Rs 1.44 crore. By state,
 ## The 2014 Comparative: Renomination and Reelection
 
 
-Of the 542 Lok Sabha winners in 2009, 285, or 52% of the previous winners, were re-nominated by their parties to contest the 2014 elections. Of these 285, 143 won the election again in 2014, This is roughly a 50% success rate - the percentage of renominees who successfully secured reelection. 
-
-
-A comparison of candidates with criminal charges against those with none reveals much more. Of the 455 non-criminals elected to the Lok Sabha in 2009, 235 were re-nominated by their parties to contest in 2014. 115 of these people went on to win a seat in 2014 as well, representing a 51% re-nomination rate and 49% success rate. 
+Of the 542 Lok Sabha winners in 2009, a comparison of candidates with criminal charges against those with none reveals much more. Of the 455 non-criminals elected to the Lok Sabha in 2009, 235 were re-nominated by their parties to contest in 2014. 115 of these people went on to win a seat in 2014 as well, representing a 51% re-nomination rate and 49% success rate. 
 
 
 Contrast this with the prospects of candidates facing criminal charges. 87 such candidates got elected in 2009, of which 50 got re-nominated, yielding a re-nomination rate of 58%. Further, 28 went on to win in the 2014 elections, at a 56% success rate. 
