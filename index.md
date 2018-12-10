@@ -1,8 +1,10 @@
+Will India vote for a criminal or a crorepati again in 2019? 
+
 For a national population of 1.3 billion, the Lok Sabha currently admits only 543 representatives. This only further intensifies the competition for being elected Member of Parliament to the sanctum sanctorum of Indian democracy. Being elected MP brings with the role serious power dynamics and influence over a sizeable populace. 
 
-To achieve this legitimate authority is an attraction for many, some of whom seem to have gone to ignoble limits. Declarations made to the Election Commission of India (ECI) by candidates prior to the 2014 general election highlight a worrying fact about Indian politics: that it is further coming under thev control of candidates with criminal allegations, or excess wealth to spare.
+To achieve this legitimate authority is an attraction for many, some of whom seem to indulge in unfair competition. Declarations made to the Election Commission of India (ECI) by candidates prior to the 2014 general election highlight a worrying fact about Indian politics: that it is further coming under the control of candidates with criminal allegations, or excess wealth to spare.
 
-Will India vote for a criminal or a crorepati again in 2019? A data-driven, visualized analysis of the 2009 and 2014 Lok Sabha elections has much to show.
+A data-driven, visualized analysis of the 2009 and 2014 Lok Sabha elections has much to show.
 
 <div>
 
