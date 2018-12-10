@@ -13,7 +13,7 @@ A data-driven, visualized analysis of the 2009 and 2014 Lok Sabha elections has 
 </div>
 
 <div align="center">
-  <small> Hover your mouse over any state to see the number of candidates with criminal charges nominated by state.<br>Data: Trivedi Centre for Political Data, Ashoka University</small>
+  <small> Interactive visualisation of candidates with criminal charges nominated by state.<br>Data: Trivedi Centre for Political Data, Ashoka University</small>
 </div>
 
 ## Candidate insights: 2009 Lok Sabha Elections 
