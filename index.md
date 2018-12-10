@@ -13,7 +13,7 @@ A data-driven, visualized analysis of the 2009 and 2014 Lok Sabha elections has 
 </div>
 
 <div align="center">
-  <small> Interactive visualisation of candidates with criminal charges nominated by state.<br>Data: Trivedi Centre for Political Data, Ashoka University</small>
+  <small>Interactive visualisation of candidates with criminal charges nominated by state.<br>Data: Trivedi Centre for Political Data, Ashoka University</small>
 </div>
 
 ## Candidate insights: 2009 Lok Sabha Elections 
@@ -102,7 +102,7 @@ While the impact of criminality is not very significant, data shows that more in
 Of the 28 candidates with criminal charges reelected in 2014, an overwhelming majority of them are from the BJP (16 candidates). Trinamool Congress (AITC) and INC’s count is 3 and 2  respectively, with a bunch of regional parties like SP, JD(U), ADMK, AIMIM, CPM having 1 candidate each. 
 
 
-The reason for the BJP getting the maximum number of candidates with criminal cases re-elected can also be attributed to the ‘Modi Wave’ phenomenon of 2014 that aided now Prime Minister Narendra Modi's campaign. It is likely that the strong anti-incumbency sentiment against the Congress, combined with Modi's popularity in 2014 may have compensated for the tainted personal records of BJP’s candidates.
+The reason for the BJP getting the maximum number of re-elected criminal candidates can also be attributed to the ‘Modi Wave’ phenomenon of 2014 that aided now Prime Minister Narendra Modi's campaign. It is likely that the strong anti-incumbency sentiment against the Congress combined with Modi's popularity may have compensated for the tainted personal records of BJP’s candidates.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayukhnair/india-election-crime/master/Picture2.png"/>
@@ -122,12 +122,12 @@ It is interesting to note that AITC’s is 100% (3/3), and their stronghold is W
 
 ## Why does India elect them?
 
-India’s population makes the elections a costly exercise for political parties. Expenditure filings with the ECI for the 2014 general elections state that six national parties spent a combined Rs 1372.7 crores.  BJP's successful campaign cost them Rs 714.28 cr, while Congress spent Rs 516.02 cr.  
+India’s population makes the elections a costly exercise for political parties. [Expenditure filings with the ECI for the 2014 general elections](https://eci.gov.in/files/category/273-recognized-national-parties/) state that six national parties spent a combined Rs 1372.7 crores.  BJP's successful campaign cost them Rs 714.28 cr, while Congress spent Rs 516.02 cr.  
 
 This steep cost has led to parties favouring candidates with deep pockets for financing their campaign. The further the candidate’s ability to self-finance their campaign, the lesser he/she will be draining the party’s coffers.Candidates with criminal charges have greater wealth, which furthers their chance of getting a party’s ticket. 
 
-In India, the trend for criminal candidates’ prospects is anything but bleak. In a BBC interview, political scientist Milan Vaishnav stated that Indian voters are swayed on communal and religious lines, which is further used to highlight the failing of the present government to deliver to its citizens. Criminal candidates not only utilize this to full effect, they often use their known criminal power as political leverage.
+In India, the trend for criminal candidates’ prospects is anything but bleak. [In a BBC interview](https://www.bbc.com/news/world-asia-india-38607255), political scientist Milan Vaishnav stated that Indian voters are swayed on communal and religious lines, which is further used to highlight the failing of the present government to deliver to its citizens. Criminal candidates not only utilize this to full effect, they often use their known criminal power as political leverage.
 
-This is combined with the government's wilful apathy to protect dubious funding channels for their parties. The Lok Sabha recently passed a bill that exempts parties from scrutiny of funds received from abroad, that too sans debate. And new rules shown by the government to "clean up" funding only makes it murkier: the Union Budget of 2017-18 introduced electoral bonds to crack down on cash donations, but allowed anonymity of donors.
+This is combined with the government's wilful apathy to protect dubious funding channels for their parties. [The Lok Sabha recently passed a bill](https://www.thehindu.com/news/national/lok-sabha-passes-bill-to-exempt-political-parties-from-scrutiny-on-foreign-funds-without-debate/article23285764.ece) that exempts parties from scrutiny of funds received from abroad, that too sans debate. And new rules shown by the government to "clean up" funding only makes it murkier: the Union Budget of 2017-18 introduced electoral bonds to crack down on cash donations, [but allowed anonymity of donors.](https://adrindia.org/content/india%E2%80%99s-political-funding-mess)
 
 The Supreme Court struck down petitions to bar criminal candidates from contesting elections, but underlined that it is time Parliament enacts laws to prevent this. But as the information goes to show, India is doing anything but cleaning up.
