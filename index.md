@@ -1,6 +1,6 @@
 Will India vote for a criminal or a crorepati again in 2019? 
 
-For a national population of 1.3 billion, the Lok Sabha currently admits only 543 representatives. This only further intensifies the competition for being elected Member of Parliament to the sanctum sanctorum of Indian democracy. Being elected MP brings with the role serious power dynamics and influence over a sizeable populace. 
+For a population of 1.3 billion, the Lok Sabha currently admits only 543 representatives. This only further intensifies the competition for being elected Member of Parliament to the sanctum sanctorum of Indian democracy. Being elected MP brings with the role serious power dynamics and influence over a sizeable populace. 
 
 To achieve this legitimate authority is an attraction for many, some of whom seem to indulge in unfair competition. Declarations made to the Election Commission of India (ECI) by candidates prior to the 2014 general election highlight a worrying fact about Indian politics: that it is further coming under the control of candidates with criminal allegations, or excess wealth to spare.
 
@@ -123,4 +123,4 @@ In India, the trend for criminal candidates’ prospects is anything but bleak. 
 
 This is combined with the government's wilful apathy to protect dubious funding channels for their parties. [The Lok Sabha recently passed a bill](https://www.thehindu.com/news/national/lok-sabha-passes-bill-to-exempt-political-parties-from-scrutiny-on-foreign-funds-without-debate/article23285764.ece) that exempts parties from scrutiny of funds received from abroad, that too sans debate. And new rules shown by the government to "clean up" funding only makes it murkier: the Union Budget of 2017-18 introduced electoral bonds to crack down on cash donations, [but allowed anonymity of donors.](https://adrindia.org/content/india%E2%80%99s-political-funding-mess)
 
-The Supreme Court struck down petitions to bar criminal candidates from contesting elections, but underlined that it is time Parliament enacts laws to prevent this. But as the information goes to show, India is doing anything but cleaning up.
+The Supreme Court [recently struck down petitions to bar criminal candidates](https://www.hindustantimes.com/india-news/should-netas-facing-criminal-cases-contest-elections-supreme-court-to-to-decide-soon/story-1Wu3771SusfAsUUu4eDatJ.html) from contesting elections, but underlined that it is time Parliament enacts laws to prevent this. But as the information goes to show, India is doing anything but cleaning up.
