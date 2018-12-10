@@ -1,8 +1,8 @@
-Will India vote for a criminal or a crorepati again in 2019? Let’s look at 2009-14 to find out.
+For a national population of 1.3 billion, the Lok Sabha currently admits only 543 representatives. This only further intensifies the competition for being elected Member of Parliament to the sanctum sanctorum of Indian democracy. Being elected MP brings with the role serious power dynamics and influence over a sizeable populace. 
 
-Looking back at the previous election cycle (2009-14), candidates with serious criminal charges show greater political longevity, and a better chance of returning to office.
+To achieve this legitimate authority is an attraction for many, some of whom seem to have gone to ignoble limits. Declarations made to the Election Commission of India (ECI) by candidates prior to the 2014 general election highlight a worrying fact about Indian politics: that it is further coming under thev control of candidates with criminal allegations, or excess wealth to spare.
 
-<div>
+Will India vote for a criminal or a crorepati again in 2019? A data-driven, visualized analysis of the 2009 and 2014 Lok Sabha elections has much to show.
 
 <div class='tableauPlaceholder' id='viz1544377476187' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CriminalCasesbyStatein2009Elections&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CriminalCasesbyStatein2009Elections&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CriminalCasesbyStatein2009Elections&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>               <script type='text/javascript'>                    var divElement = document.getElementById('viz1544377476187');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
@@ -61,9 +61,6 @@ Contrast this with the prospects of candidates facing criminal charges. 87 such 
 While the impact of criminality is not very significant, data shows that more incumbent criminals retain their seat than their non-criminal peers. 
 
 
-These candidates are preferred more by the parties than the electorate. Political scientist Milan Vaishnav notes in an interview with BBC that criminal and wealthy candidates self-finance their campaigns, which is beneficial for parties as the party coffers are not depleted. These candidates may even contribute to the party fund to sponsor other candidates’ campaigns. 
-
-
 ### Party and State wise Renomination, Reelection
 
 
@@ -86,48 +83,15 @@ It is interesting to note that AITC’s is 100% (3/3), and their stronghold is W
 
 ## Why does India elect them?
 
+India’s population makes the elections a costly exercise for political parties. Expenditure filings with the ECI for the 2014 general elections state that six national parties spent a combined Rs 1372.7 crores.  BJP's successful campaign cost them Rs 714.28 cr, while Congress spent Rs 516.02 cr.  
 
+This steep cost has led to parties favouring candidates with deep pockets for financing their campaign. The further the candidate’s ability to self-finance their campaign, the lesser he/she will be draining the party’s coffers.Candidates with criminal charges have greater wealth, which furthers their chance of getting a party’s ticket. 
 
+In India, the trend for criminal candidates’ prospects is anything but bleak. In a BBC interview, political scientist Milan Vaishnav stated that Indian voters are swayed on communal and religious lines, which is further used to highlight the failing of the present government to deliver to its citizens. Criminal candidates not only utilize this to full effect, they often use their known criminal power as political leverage.
+
+This is combined with the government's wilful apathy to protect dubious funding channels for their parties. The Lok Sabha recently passed a bill that exempts parties from scrutiny of funds received from abroad, that too sans debate. And new rules shown by the government to "clean up" funding only makes it murkier: the Union Budget of 2017-18 introduced electoral bonds to crack down on cash donations, but allowed anonymity of donors.
+
+The Supreme Court struck down petitions to bar criminal candidates from contesting elections, but underlined that it is time Parliament enacts laws to prevent this. But as the information goes to show, India is doing anything but cleaning up.
 
 Dataset: Insert link
 
-<ignore text below>
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mayukhnair/india-election-crime/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mayukhnair/india-election-crime/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
