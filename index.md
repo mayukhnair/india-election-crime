@@ -83,7 +83,7 @@ Of the 542 Lok Sabha winners in 2009, a comparison of candidates with criminal c
 Contrast this with the prospects of candidates facing criminal charges. 87 such candidates got elected in 2009, of which 50 got re-nominated, yielding a re-nomination rate of 58%. Further, 28 went on to win in the 2014 elections, at a 56% success rate. 
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayukhnair/india-election-crime/master/Picture1.png"/>
+  <img src="https://raw.githubusercontent.com/mayukhnair/india-election-crime/master/Picture1.png" style="border: 0;">
 </p>
 
 <div align="center">
@@ -98,7 +98,7 @@ While the impact of criminality is not very significant, data shows that more in
 BJP managed to get the maximum number of criminal MPs reelected. It can be attributed to the ‘Modi Wave’ phenomenon of 2014 that aided Narendra Modi's campaign. It is likely that the strong anti-incumbency sentiment against the Congress combined with Modi's popularity may have compensated for the tainted personal records of BJP’s candidates.
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayukhnair/india-election-crime/master/Picture2.png"/>
+  <img src="https://raw.githubusercontent.com/mayukhnair/india-election-crime/master/Picture2.png" style="border: 0;">
 </p>
 
 <div align="center">
