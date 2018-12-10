@@ -90,7 +90,7 @@ Contrast this with the prospects of candidates facing criminal charges. 87 such 
 </p>
 
 <div align="center">
-  <small>Percentage of all candidates re-nominated and successfully re-elected thereafter. Data:<br>Trivedi Centre for Political Data, Ashoka University</small>
+  <small>Percentage of 2009 LS MPs re-nominated and successfully re-elected thereafter. Data:<br>Trivedi Centre for Political Data, Ashoka University</small>
 </div>
 
 While the impact of criminality is not very significant, data shows that more incumbent criminals retain their seat than their non-criminal peers. 
